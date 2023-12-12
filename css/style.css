@@ -1,0 +1,70 @@
+ .body{
+    background-image: url(../img/fundin.jpg);
+    background-size: cover;
+    background-color: black;
+
+    
+ }
+ .cabecalho{
+    
+    background-color: black;
+    height: 70px;
+    width: 1580px;
+     
+    color: aliceblue;
+    font-size: 42px;
+    border-radius: 90px;
+    margin-top: 3%;
+ 
+ }
+ .botaoum{
+    color: #c4ebba;
+    margin: 12px;
+    margin-left: 38%;
+     
+ }
+ .botaodois{
+    color: #c4ebba;
+    margin: 399px;
+    margin-top: -6.6%;
+    margin-left: 48%;
+
+     
+     
+ }
+ .foto{
+    margin-top: -17%;
+    margin-left: 75%;
+    
+    
+ }
+ .softskills{
+    margin-top: 2%;
+    background-color: beige;
+    height: 300px;
+    width: 450px;
+    opacity: 0.7;
+    border-radius: 10%;
+    margin-left: 10%;
+    
+ }
+ .hardskills{
+    margin-top: -19.8%;
+    background-color: beige;
+    height: 300px;
+    width: 850px;
+    opacity: 0.7;
+    border-radius: 10%;
+    margin-left: 44%;
+     
+     
+ }
+ .htlogo{
+    margin-left: 5%;
+
+ }
+ 
+  
+
+  
+  
